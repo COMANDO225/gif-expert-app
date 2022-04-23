@@ -16,7 +16,7 @@ const App = () => {
         <>
             <div className="nav">
                 <h1>
-                  <span>GIF </span>EXPERT<span> APP</span>
+                  <span>GIF REACT APP</span>
                 </h1>
                 <AddCategory
                   setcategories= {setcategories}
