@@ -1,8 +1,8 @@
 const NohayNada = () => {
     return (
         <div className="nohaynada">
-            <h1>Ya pe causa, busca algo</h1>
-            <p>o te agilas?</p>
+            <h1>¿En que estás pensando?</h1>
+            <p>busca algo</p>
         </div>
     );
 }

@@ -10,7 +10,7 @@ const GifGrid = ({category}) => {
 
     useEffect(() => {
         getGifs(nombre).then(image => setImages(image))
-    }, []);
+    }, [nombre]);
 
     return (
         <div className='sub_section'>
